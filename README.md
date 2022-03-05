@@ -1,2 +1,2 @@
 # Bot-Discord-V-Dream
-Le Bot Discord de V-Dream
+Pour trouver tous les fichiers, allez à la branche master.
